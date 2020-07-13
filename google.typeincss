@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<link href="<link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@200&display=swap rel="stylesheet">"
+	<title>Google style</title>
+</head>
+<body>
+	<header>Les styles CSS</header>
+	
+		<h1>Première paragraphe</h1>
+		<p>
+		 L'Amazone est le plus grand fleuve par l'immensité de son bassin.
+		</p>
+		<article>
+		La première remontée complète du fleuve par les Européens est due au Portugais Pedro Teixeira, qui, en 1638, fait la route inverse d’Orellana et atteint Quito en passant par le Río Napo. Il redescend le fleuve en 1639 avec les pères jésuites Acuna et Artieda, délégués par la vice-royauté du Pérou pour l'accompagner.
+	    </article>
+	    
+
+</body>
+</html>
